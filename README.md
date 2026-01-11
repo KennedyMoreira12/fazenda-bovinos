@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
@@ -57,3 +58,24 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+=======
+# 🐄 Sistema de Controle de Fazenda Bovina
+
+Sistema desenvolvido em Laravel para gerenciamento de fazendas, gado e veterinários.
+
+## Funcionalidades
+- CRUD de Gado, Fazendas e Veterinários
+- Regra de negócio: 18 animais por hectare
+- Controle de abate
+- Dashboard com indicadores
+- Relatórios
+- Relacionamentos entre entidades
+
+## Tecnologias
+- PHP (Laravel)
+- MySQL
+- Bootstrap
+
+## Autor
+John Kennedy Moreira dos Santos
+>>>>>>> 88b3ae968f66d040aa6ed3d37a1ecc3020cd6933
